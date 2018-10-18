@@ -1,3 +1,7 @@
 settings.py
 manage.py
 invie/
+main.py 
+models.py
+views.py
+urls.py
